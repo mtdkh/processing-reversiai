@@ -1,5 +1,5 @@
 # ReversiAI
-You can play reversi with AI
+You can play reversi with AI.
 
 
 ## Programming language 
