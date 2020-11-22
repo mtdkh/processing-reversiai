@@ -23,7 +23,7 @@ boolean black_turn = true;
 boolean game_setting = true;
 
 void setup() {
-  size(MASS_SIZE*MASS_NUMBER+150, MASS_SIZE*MASS_NUMBER);
+  size(550, 400);
   textAlign(CENTER);
 
   table = new Table();
