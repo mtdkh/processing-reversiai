@@ -1,13 +1,10 @@
 # processing-reversiai
 
 ## Description
-You can play reversi with AI  
+リバーシをAIと一緒にプレイできる  
 
 ## Requirement
 * Processing ver3.5.4
-
-## Features
-リバーシをAIと一緒にプレイできる  
 
 ## Usage
 
